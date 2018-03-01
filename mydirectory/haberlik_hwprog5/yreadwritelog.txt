@@ -1,0 +1,22 @@
+Main: Beginning execution
+Main: logfile 'yreadwritelog.txt'
+enter Load
+enter Verify
+leave Verify
+enter Verify
+leave Verify
+enter Verify
+leave Verify
+enter ToString
+enter TwosComplementInteger
+leave TwosComplementInteger
+leave ToString
+MACHINE IS NOW
+PC           0
+ACCUM        0 0000000000000000
+
+MEM    0-   3 1110000000000001 1110000000000011 1110000000000001 1110000000000011
+MEM    4-   7 1110000000000010
+
+leave Load
+Main: Ending execution
